@@ -1,6 +1,6 @@
 # Python_Graphs
-Basics of graph
-Matplotlib
-cufflinks
-plotly
-seaborn
+**Basics of graph**
+**Matplotlib**
+**cufflinks**
+**plotly**
+**seaborn**
