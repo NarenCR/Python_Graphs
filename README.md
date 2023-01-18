@@ -1,5 +1,5 @@
 # Python_Graphs
-**Basics of graph** '\n'
+**Basics of graph**
 **Matplotlib**
 **cufflinks**
 **plotly**
